@@ -21,5 +21,3 @@ Alert → Triage → Header Analysis → URL Analysis → Threat Classification 
 
 ## Outcome
 The email was confirmed as a phishing/scam message abusing the OTTO brand and using deceptive redirection infrastructure.
-
-This workflow is reusable for any email-based threat investigation.
