@@ -1,0 +1,16 @@
+# Domains
+winner-win.art
+firiri.shop
+
+# URL Shortener
+t.co/eYVtqVunRC
+
+# IP Addresses
+80.96.157.90
+
+# Email Addresses
+reply_to@winner-win.art
+return@winner-win.art
+
+# Sender Hostname
+qktfxthukmwfnksijbkrjxkzhstbswa.whstr8
